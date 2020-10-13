@@ -1,0 +1,75 @@
+Post Status,Título del producto o servicio,Descripción de la servicio o producto,Clasificación del Producto o Servicio,Telefono de contacto,Correo electrónico,Web o Redes Sociales Relacionadas,Flyer o Imagen (opcional),Ubicación aproximada.lat,Ubicación aproximada.lon,Dirección o referencias,Categorías relacionadas,Medidas de protección contra el Covid19,¿A qué otros puntos del mapa podríamos conectar este producto o servicio?,Fuente,Link a la fuente
+draft,Rociador desinfectante automatico,Prototipo de rociador desarrollado por estudiates ,,,,https://twitter.com/uncapy,,-25.4661756,-56.0181685,"Caaguazú, Caaguazú, Paraguay",Otros ,,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Dispenser mecanico ,Prototipo de dispenser de alcohol en gel y jabón liquido realizado con materiales de bajo costo por estudiantes.,,,,https://twitter.com/CovidFPUNA,,-25.2800459,-57.6343814,"Asunción , Capital, Paraguay",Salud,,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Facturación adelantada,"Consiste en comprar planes de productos/servicios a precio promocional para que los negocios puedan seguir facturando, pero para usarlos A la vuelta de esta cuarentena. ",,,,,,-25.2800459,-57.6343814,"Asunción , Capital, Paraguay",Otros ,plataforma.alavuelta@gmail.com,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Soluciones para el hogar y la empresa,"Desinfectantes, lavaderos y dispensadores. ",,,,,,-25.2800459,-57.6343814,"Asunción , Capital, Paraguay",Salud,,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Test COVID en el auto,Test realizado directamente en el vehiculo para evitar contagio ,,,,,,-25.2800459,-57.6343814,"Asunción , Capital, Paraguay",Salud,,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Juntos en casa,Sitio web con información veraz sobre el tema ,,,,https://www.juntosencasa.com.py/,,-25.2800459,-57.6343814,"Asunción , Capital, Paraguay",Educación en general,,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Aloha,App para disminuir el stress y mejorar el estado interior usando Musica Terapeutica en estos momentos tan dificiles:,,,,,,-25.2800459,-57.6343814,"Asunción , Capital, Paraguay",Ayuda Psicológica,,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Identidad visual,Oportunidad que ofrece gratuitamente uno de nuestros socios para las empresas que quieran publicitar sus ofertas.,,,,,,-25.2800459,-57.6343814,"Asunción , Capital, Paraguay",Otros ,,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Compra de Insumos de bioseguridad ,Juntar donaciones para comprar insumos de bioseguridad para el persnal médico ,,,,,,-25.2800459,-57.6343814,"Asunción , Capital, Paraguay",Salud,,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Trajes de protección individual,Recolección de donaciones para realizar trajes de protección y donarlos al personal médico. ,,0981 469345,,,,-25.2800459,-57.6343814,"Asunción , Capital, Paraguay",Salud,,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Educación financiera para todos,"Tips por oficio para poder seguir trabajando.
+",,,,,,-25.2800459,-57.6343814,"Asunción , Capital, Paraguay",Educación en general,,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,DDPO - Dispositivo de Desinfección por Ozono," DDPO - Dispositivo de Desinfección por Ozono
+Descripción: se trata de dispositivo para desinfección de superficies, de fácil manejo. Es un Generador de ozono, que mediante una descarga de alto voltaje permite convertir el oxígeno (O2) en ozono (O3). Este dispositivo puede utilizarse para una limpieza profunda con agua ozonizada o, sin ella, a través de un chorro de aire ozonizado sobre mesas, alfombras, tapicería de sillas, sofás o de la ropa de cama que no suele lavarse, como los edredones, las mantas o los colchones, teclados o cualquier superficie que precisa ser desinfectada. También puede utilizarse en la desinfección de los calzados.
+Debido al alto poder de oxidación, el ozono es efectivo para eliminar todo tipo de bacterias, inactivar virus, incluso aquellos que no son atacados por el cloro. Puede configurarse como un elemento de ayuda para el personal de salud, choferes de transporte público, entre otros.
+Contacto: Gustavo Riveros (gustavo.riveros@pti.org.py)
+Equipo de Trabajo: Gustavo Riveros, Marcelo Zárate, Marcelo Barboza.
+Status: se cuenta ya con un primer modelo a ser fabricado, en proceso de recoger los dispositivos necesarios para el montaje.  
+",,,,,,-23.3165935,-58.1693445,Paraguay,Educación en general,gustavo.riveros@pti.org.py,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Sistema de Control Epidemiológico – Fronteras Seguras CoVid-19,"Sistema de Control Epidemiológico – Fronteras Seguras CoVid-19
+Descripción: El presente proyecto prevé el desarrollo de un sistema de control fronterizo, que contribuya a la mitigación de la transmisión de epidemias en las fronteras del país. Para esto, el sistema estará compuesto por diversos módulos que posibilitarán un alto grado de control y sanitización de personas/vehículos haciendo uso de tecnologías ágiles, garantizando así, el flujo continuo de personas que diariamente se desplazan a través de las fronteras del país. 
+El modelo a ser implementado es inspirado en los principales aeropuertos del mundo donde se hace uso de la App como identificador y puede ser implementado fácilmente durante periodos de epidemia.
+Principales características del sistema: 
+         App de control epidemiológico transfronterizo, para pre-catastro de todas las personas que entran o salen del país. Turistas, estudiantes, camioneros, etc.  
+·   Registro de localidades principales donde realizará las actividades de turismo o trabajo para ofrecer niveles básicos de trazabilidad del ingresante al país para despliegue de protocolos sanitarios rápidos. (Lugar de procedencia, Nombre de empresa, dirección de familiares, etc.) 
+·         Sistema para validación de Catastro e identificación personal (biométrico Ej: identificación facial) 
+·         Registro de variables corporales automatizadas (Ej: temperatura). 
+·         Pasarelas de sanitización de personas y vehículos automatizadas. 
+·         App de control aleatorio en vias de acceso a ciudades fronterizas para validación de información proporcionada por ingresantes al país. 
+·         Central de monitoreo y control integrado, en donde serán almacenadas y procesadas los datos adquiridos por el sistema de Fronteras Seguras. 
+·         OBS: El control individual es permanente en la frontera con Argentina y casos parecidos ya se dieron en las fronteras con Brasil para prevención de transporte transfronterizo del virus de la fiebre aftosa.
+Equipo de Trabajo: Jorge Arrúa, Jorge Duré, Raj Bhag Chandani, Charles Soder, Mario López, Tamatiá Colmán
+Status:  Se está finalizando el Plan de Trabajo.",,,,,,-25.5,-54.833333,Paraguay,Salud,jorgearrua@pti.org.py,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Aerosol Box ,"iLOS NECESITAMOS SANTOS!
+
+Los médicos precisan de esta caja Llamada Aerosol Box para intubar de forma segura, a los pacientes que tengan insuficiencia respiratoria
+
+el COVID 19
+
+por
+
+Existe una iniciativa privada para la fabricación de las cajas en donde vos podés hacer tu parte, donando tu granito de arena, con el importe que puedas, todo suma.
+
+Valor de cada caja G.587.000
+
+VAMOS PARAGUAY!
+
+Donaciones Banco Itau Dra. Olivia Cabral Cuenta 520194896 C: 3283790",,3283790,,,,-23.3165935,-58.1693445,Paraguay,Grupo de apoyo / Voluntarios,,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,mascarillas baratas ocre,"REALIZÁ TU PEDIDO
+Podes pasar a buscar de nuestro Atelier o agendar tu pedido para delivery o envíos al interior (sin costo en Asunción a partir del paquete de 500 unidades)
+OCRE
+TAPABOCAS DESECHABLES ESTERILIZADOS
+ESPECIFICACIONES
+TNT / polipropileno de 80 grs.
+(Gramaje recomendado por el Ministerio de Salud Pública y Bienestar Social del Paraguay).
+Sujetadores elásticos.
+De único uso.
+PAQUETES DE:
+500 unid. = Gs. 1.500 c/u.
+100 unid. = Gs. 2.000 clu.
+HECHO EN PARAGUAY
+Comprando ayudas a familias enteras de artesanas, modistas y costureras
+CONTACTOS 0981 133 219 0986 416 848 comercial@ocre.com.py",,,,,,-23.3165935,-58.1693445,Paraguay,Otros ,,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Viajes gratis a profesionales de salud MUV,"Viajes Gratis para personal de blanco y profesionales de la Salud
+MUV beneficiará a 100 profesionales de salud con viajes gratuitos hasta un monto de Gs. 200.000 por persona. La campaña busca premiar a los héroes que luchan día a día para la prevención del COVID-19.
+Participan aquellos que nominan a los profesionales de salud subiendo una foto de él/ella, arrobandole y contando cómo ayuda a combatir la enfermedad.
+
+
+Delivery
+MUV ofrece realizar trayectos con un 30% de descuento desde el 25 de marzo hasta nuevo aviso y habilita la opción de delivery para apoyar a PYMEs y particulares evitando que salgan de sus casas. 
+https://twitter.com/app_muv/status/1241072036916715523",,,,,,-23.3165935,-58.1693445,Paraguay,Víveres / Seguridad alimentaria / Nutrición,,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Servicio Consultorio Jurídico Feminista,Dan orientación psicológica y jurídica en Paraguay con perspectiva feminista,,0983217273,,https://www.facebook.com/CJFparaguay/,,-23.3165935,-58.1693445,Paraguay,Ayuda Psicológica,consultoriojuridicofeminista@gmail.com,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Módulos sanitarios de bajo coste,"Diseñaron puntos de higiene a bajo costo para asentamientos y unidades de salud familiar. Consiste en puesto de lavamanos a Gs. 500.000 y punto de ducha e inodoro a Gs. 3.000.000. Se habilitó una cuenta para donar de esa bolsa, pagar estos u estos puntos y donarlos.",,,,https://www.facebook.com/lafabricasocialpy/ https://www.facebook.com/TECHOparaguay/,,-23.3165935,-58.1693445,Paraguay,Salud,,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
+draft,Bien Cerca - Version Epyta Nde Rógape,"Bien cerca es una performance poética que implica que en plazas, cafés o ciertos eventos, el poeta Eduardo Barreto te recita una poesía al oído. En este contexto y para ofrecer el acompañamiento de la poesía en confinamiento, podes dejar tu número teléfono en las redes y te envían por whatsapp un audiopoema",,,,,,-23.3165935,-58.1693445,Paraguay,Otros ,,,Reporte identificado por equipo impulsor,https://bit.ly/eni-iniciativas-covid19
