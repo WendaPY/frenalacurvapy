@@ -1,0 +1,13 @@
+22.18 19/03/2020 Esta plataforma usando la tecnología open source de ushahidi.io
+ha sido concebida, costeada y proporcionada por la empresa Kaleidos Open Source SL (https://kaleidos.net),
+en particular por las kaleiders @sagilca @supercaperucita @bameda y @diacritica.
+
+No tenemos ni idea de si ayudará a resolver problemas reales pero estamos en un punto
+en donde hay que intentar cualquier cosa que incorpore una componente puramente geográfica
+para facilitar redes de apoyo mutuo en los barrios.
+
+A la hora de escribir este humans.txt en España se contabilizaban 767 fallecimientos :(
+
+18.58 29/03/2020 En los últimos días se han unido desde Kaleidos @superalex y @niwinz.
+Hemos pasado de las 3000 chinchetas pero también hemos pasado de 6000 muertos. No hay palabras.
+Es terrible.
